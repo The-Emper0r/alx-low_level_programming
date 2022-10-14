@@ -3,7 +3,7 @@
 
 /**
 *main - Prints the text
-*Return : 1 if succesful 
+*Return : 1 if succesful
 */
 
 int main(void)
